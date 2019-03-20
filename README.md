@@ -35,7 +35,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
   5. `shape`
 
 - - -
-file:///C:/Users/beatl/Desktop/JavaScript-and-DOM-Manipulation/index.html
+
 
 ### Copyright
 
